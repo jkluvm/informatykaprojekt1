@@ -1,0 +1,12 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{\numberline {1}Opis zadania}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Instrukcja obsługi programu.}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Schematy blokowe wybranych funkcji}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Funkcja inicjująca parametry elipsoidy}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Funkcja hirvonen}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Funkcja blh2xyz}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Funkcja xyz2neu}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Funkcja uklad1992}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Funkcja uklad2000}{8}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Funkcja katy odl}{9}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Pseudokod}{10}{section.3}%
