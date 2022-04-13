@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.8)  12 APR 2022 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.8)  14 APR 2022 00:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -986,7 +986,7 @@ d.
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-<settings/WGiK-znak.png, id=47, 471.6822pt x 123.8226pt>
+<settings/WGiK-znak.png, id=51, 471.6822pt x 123.8226pt>
 File: settings/WGiK-znak.png Graphic file (type png)
 <use settings/WGiK-znak.png>
 Package pdftex.def Info: settings/WGiK-znak.png  used on input line 39.
@@ -1057,7 +1057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--85
  []
 
 [2]
-<settings/model.png, id=81, 423.984pt x 495.65175pt>
+<settings/model.png, id=86, 423.984pt x 495.65175pt>
 File: settings/model.png Graphic file (type png)
 <use settings/model.png>
 Package pdftex.def Info: settings/model.png  used on input line 91.
@@ -1068,7 +1068,7 @@ Overfull \hbox (22.764pt too wide) in paragraph at lines 91--92
  []
 
 [3 <./settings/model.png>]
-<settings/hirvonen.png, id=86, 439.6425pt x 570.933pt>
+<settings/hirvonen.png, id=91, 439.6425pt x 570.933pt>
 File: settings/hirvonen.png Graphic file (type png)
 <use settings/hirvonen.png>
 Package pdftex.def Info: settings/hirvonen.png  used on input line 98.
@@ -1079,7 +1079,7 @@ Overfull \hbox (22.764pt too wide) in paragraph at lines 98--99
  []
 
 [4 <./settings/hirvonen.png>]
-<settings/blh2xyz.png, id=91, 411.33675pt x 294.50024pt>
+<settings/blh2xyz.png, id=96, 411.33675pt x 294.50024pt>
 File: settings/blh2xyz.png Graphic file (type png)
 <use settings/blh2xyz.png>
 Package pdftex.def Info: settings/blh2xyz.png  used on input line 105.
@@ -1090,7 +1090,7 @@ Overfull \hbox (22.764pt too wide) in paragraph at lines 105--106
  []
 
 [5 <./settings/blh2xyz.png>]
-<settings/xyz2neu.png, id=96, 392.06474pt x 445.06274pt>
+<settings/xyz2neu.png, id=101, 392.06474pt x 445.06274pt>
 File: settings/xyz2neu.png Graphic file (type png)
 <use settings/xyz2neu.png>
 Package pdftex.def Info: settings/xyz2neu.png  used on input line 112.
@@ -1100,19 +1100,19 @@ Overfull \hbox (22.764pt too wide) in paragraph at lines 112--113
  [] 
  []
 
-<settings/uklad1992.png, id=97, 380.01974pt x 543.83176pt>
+<settings/uklad1992.png, id=102, 380.01974pt x 543.83176pt>
 File: settings/uklad1992.png Graphic file (type png)
 <use settings/uklad1992.png>
 Package pdftex.def Info: settings/uklad1992.png  used on input line 118.
 (pdftex.def)             Requested size: 418.25368pt x 598.57361pt.
 [6 <./settings/xyz2neu.png>]
-<settings/uklad2000.png, id=102, 428.19975pt x 704.03024pt>
+<settings/uklad2000.png, id=107, 428.19975pt x 704.03024pt>
 File: settings/uklad2000.png Graphic file (type png)
 <use settings/uklad2000.png>
 Package pdftex.def Info: settings/uklad2000.png  used on input line 124.
 (pdftex.def)             Requested size: 358.50836pt x 589.45844pt.
  [7 <./settings/uklad1992.png>]
-<settings/katy.png, id=108, 384.2355pt x 545.6385pt>
+<settings/katy.png, id=113, 384.2355pt x 545.6385pt>
 File: settings/katy.png Graphic file (type png)
 <use settings/katy.png>
 Package pdftex.def Info: settings/katy.png  used on input line 130.
@@ -1122,15 +1122,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--154
 
  []
 
-[10] (projekt1main.aux)
+[10]
+<settings/commits2.png, id=127, 1120.78725pt x 470.35725pt>
+File: settings/commits2.png Graphic file (type png)
+<use settings/commits2.png>
+Package pdftex.def Info: settings/commits2.png  used on input line 160.
+(pdftex.def)             Requested size: 478.00812pt x 200.59894pt.
+
+Overfull \hbox (22.764pt too wide) in paragraph at lines 160--161
+ [] 
+ []
+
+<settings/commits1.png, id=128, 942.52126pt x 522.15076pt>
+File: settings/commits1.png Graphic file (type png)
+<use settings/commits1.png>
+Package pdftex.def Info: settings/commits1.png  used on input line 163.
+(pdftex.def)             Requested size: 478.00812pt x 264.81143pt.
+
+Overfull \hbox (22.764pt too wide) in paragraph at lines 163--164
+ [][] 
+ []
+
+[11 <./settings/commits2.png> <./settings/commits1.png>] (projekt1main.aux)
 Package rerunfilecheck Info: File `projekt1main.out' has not changed.
-(rerunfilecheck)             Checksum: 2C498B2730DDA4D09D8F7DD9CE985B13;1715.
+(rerunfilecheck)             Checksum: 93B9F6F65C50FFD5D105DDE3F96B72B5;1988.
  ) 
 Here is how much of TeX's memory you used:
- 21083 strings out of 478584
- 386982 string characters out of 2844874
+ 21102 strings out of 478584
+ 387387 string characters out of 2844874
  943516 words of memory out of 3000000
- 38939 multiletter control sequences out of 15000+600000
+ 38954 multiletter control sequences out of 15000+600000
  480346 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,82p,660b,841s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1142,9 +1163,9 @@ ec/dpi600\ecbx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
 ppen/ec/dpi600\ecrm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\eccc1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/l
 jfour/jknappen/ec/dpi600\eccc1440.pk>
-Output written on projekt1main.pdf (10 pages, 332921 bytes).
+Output written on projekt1main.pdf (11 pages, 444094 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
